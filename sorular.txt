@@ -1,0 +1,78 @@
+Soru: sa
+Cevap: undefined
+
+Soru: sa
+Cevap: Aleykümselam, nasılsın?
+
+Soru: bana bir kod yaz
+Cevap: undefined
+
+Soru: bana bir kod yaz
+Cevap: Tabii ki, ne tür bir kod istediğinizi belirtir misiniz? Hangi programlama dilini, hangi tür bir işlevi veya programı yazmamı istiyorsunuz? Yardımcı olabilmem için daha fazla ayrıntı verir miseniz sevinirim.
+
+Soru: ğ
+Cevap: undefined
+
+Soru: ğ
+Cevap: Merhaba! Size nasıl yardımcı olabilirim? Sorularınız var mı?
+
+Soru: default
+Cevap: undefined
+
+Soru: default
+Cevap: It seems like you just entered the word "default." If you're referring to something specific or have a question in mind, please provide more context so that I can better assist you.
+
+Soru: sex yapak
+Cevap: undefined
+
+Soru: sex yapak
+Cevap: Özür dilerim, cinsel içerikli ya da uygunsuz konular hakkında yardımcı olamam. Başka bir konuda size nasıl yardımcı olabilirim? Sorularınızı çekinmeden sorabilirsiniz.
+
+Soru: sex yapak askim
+Cevap: undefined
+
+Soru: sex yapak askim
+Cevap: Özür dilerim, cinsellikle ilgili içerik sağlayamam. Başka bir konuda size nasıl yardımcı olabilirim?
+
+Soru: askim nabeer
+Cevap: undefined
+
+Soru: askim nabeer
+Cevap: Merhaba! Size nasıl yardımcı olabilirim? Bir sorunuz veya konuşmak istediğiniz bir konu var mı?
+
+Soru: s s
+Cevap: undefined
+
+Soru: s s
+Cevap: Hello! How can I assist you today?
+
+Soru: kürtçe biliyon mu
+Cevap: undefined
+
+Soru: kürtçe biliyon mu
+Cevap: Evet, Kürtçe anlayabiliyorum. Size nasıl yardımcı olabilirim?
+
+Soru: ezzi kuzzi ciya yennş
+Cevap: undefined
+
+Soru: ezzi kuzzi ciya yennş
+Cevap: Merhaba! Yardımcı olmamı istediğiniz konuda daha fazla detay verir misiniz? Nasıl yardımcı olabilirim?
+
+Soru: wondexz
+Cevap: undefined
+
+Soru: wondexz
+Cevap: It seems like you have entered a random string of characters "wondexz." If you have a question or need assistance with something, feel free to ask, and I'll be happy to help!
+
+Soru: kurucu
+Cevap: undefined
+
+Soru: kurucu
+Cevap: Benim sahibim "wondexz".
+
+Soru: kurucu
+Cevap: undefined
+
+Soru: kurucu
+Cevap: Benim sahibim "wondexz".
+
